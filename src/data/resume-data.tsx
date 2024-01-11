@@ -103,7 +103,7 @@ export const RESUME_DATA = {
     {
       company: "Firebird",
       link: "https://www.leadbird.io",
-      badges: [],
+      badges: ['Contracted Developer', 'Remote'],
       title: "Full Stack Developer → Contracted Developer",
       logo: JojoMobileLogo,
       start: "2021",
