@@ -90,16 +90,16 @@ export const RESUME_DATA = {
         ],
     },
     {
-      company: "Candor",
-      link: "https://candor.co/",
-      badges: ["Remote"],
-      title: "Web Developer → Internship",
-      logo: ClevertechLogo,
-      start: "2022",
-      end: "2022",
-      description:
-        ['Took figma designs and turned them into a fully functional website using React, Next.js, and Tailwind CSS.'],
+      company: "Teachers Assistant - University of San Francisco",
+      link: "https://www.usfca.edu/",
+      badges: ["In-Person", "Part-time"],
+      title: "Teachers Assistant",
+      logo: GitHubIcon,
+      start: "2019",
+      end: "2021",
+      description: "As a Teaching Assistant for Introduction to Computer Science I and Data Structures & Algorithms at the University of San Francisco, I significantly enhanced student learning in Python and Java. My role included delivering academic support during office hours, fostering a collaborative learning environment. I developed and conducted targeted workshops and exercises to deepen students' understanding of key programming concepts. In addition to playing a vital role in grading and providing constructive feedback, I collaborated with faculty to refine course content and assessments, aligning them with student performance trends and feedback."
     },
+   
     {
       company: "Leadbird",
       link: "https://www.leadbird.io",
@@ -110,6 +110,17 @@ export const RESUME_DATA = {
       end: "2022",
       description:
         "In my role as a Web Application Developer at Leadbird, I was instrumental in engineering a sophisticated, React-based web dashboard tailored for top executives to monitor and analyze LinkedIn lead generation activities. My responsibilities included integrating DuxSoup for automating LinkedIn requests, significantly enhancing the efficiency of lead management for a diverse clientele. The user-friendly interface I developed provided immediate access to key metrics such as connection rates and message success, along with detailed insights into each LinkedIn interaction. This intuitive dashboard greatly improved our clients' decision-making capabilities in their networking strategies. My work at Leadbird was distinguished by my ability to deliver a high-performance tool that streamlined complex lead generation processes, demonstrating my expertise in creating data-driven web application solutions.",
+    },
+    {
+      company: "Candor",
+      link: "https://candor.co/",
+      badges: ["Remote"],
+      title: "Web Developer → Internship",
+      logo: ClevertechLogo,
+      start: "2022",
+      end: "2022",
+      description:
+        ['Took figma designs and turned them into a fully functional website using React, Next.js, and Tailwind CSS.'],
     },
     
   ],
@@ -159,7 +170,7 @@ export const RESUME_DATA = {
     {
       "title": "Python Documentation Portal",
       "techStack": ["Web Development", "Typescript", "Documentation"],
-      "description": "Developed and taught comprehensive courses in Unity3D/C#, web design (HTML, CSS, JavaScript), and initiated MissionBit's first Python curriculum, showcasing versatility and technical expertise. Managed classroom dynamics and integrated industry professionals into the educational process, enhancing student exposure to real-world tech environments. Guided students through the end-to-end project cycle, culminating in their presentation at MissionBit's Demo Day, fostering skills in project management and public speaking. Demonstrated adaptability by transitioning between diverse teaching subjects and consistently receiving positive feedback for course content and instructional methods.",
+      "description": "Created a Python Documentation Portal using Next.js and TailwindCSS. The platform offers features such as documentation search, documentation filtering, and documentation navigation, fostering an engaging and interactive community experience.",
       "logo": "PyDocsLogo", // Replace with actual logo variable or path
       "link": {
         "label": "Explore Pygame Docs",
