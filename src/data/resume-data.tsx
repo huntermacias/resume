@@ -159,7 +159,7 @@ export const RESUME_DATA = {
     {
       "title": "Python Documentation Portal",
       "techStack": ["Web Development", "Typescript", "Documentation"],
-      "description": "Created a comprehensive, interactive documentation site for Python, enhancing the learning experience for developers with in-depth guides and practical code examples.",
+      "description": "Developed and taught comprehensive courses in Unity3D/C#, web design (HTML, CSS, JavaScript), and initiated MissionBit's first Python curriculum, showcasing versatility and technical expertise. Managed classroom dynamics and integrated industry professionals into the educational process, enhancing student exposure to real-world tech environments. Guided students through the end-to-end project cycle, culminating in their presentation at MissionBit's Demo Day, fostering skills in project management and public speaking. Demonstrated adaptability by transitioning between diverse teaching subjects and consistently receiving positive feedback for course content and instructional methods.",
       "logo": "PyDocsLogo", // Replace with actual logo variable or path
       "link": {
         "label": "Explore Pygame Docs",
