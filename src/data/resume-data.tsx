@@ -103,7 +103,7 @@ export const RESUME_DATA = {
     {
       company: "Leadbird",
       link: "https://www.leadbird.io",
-      badges: ['React', 'DuxSoup', 'Automation', 'Web Scraping', 'LinkedIn'],
+      badges: ['React', 'DuxSoup', 'Firebase', 'Web Scraping', 'LinkedIn'],
       title: "Web Application Developer (Contractor)",
       logo: JojoMobileLogo,
       start: "2021",
