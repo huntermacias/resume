@@ -101,15 +101,15 @@ export const RESUME_DATA = {
         ['Took figma designs and turned them into a fully functional website using React, Next.js, and Tailwind CSS.'],
     },
     {
-      company: "Firebird",
+      company: "Leadbird",
       link: "https://www.leadbird.io",
-      badges: ['Contracted Developer', 'Remote'],
-      title: "Full Stack Developer → Contracted Developer",
+      badges: ['React', 'DuxSoup', 'Automation', 'Web Scraping', 'LinkedIn'],
+      title: "Web Application Developer (Contractor)",
       logo: JojoMobileLogo,
       start: "2021",
       end: "2022",
       description:
-        "Developed a comprehensive full-stack application leveraging React, Next.js, and Tailwind CSS, focused on parsing LinkedIn data to identify and generate high-quality leads for the sales team. Worked in close collaboration with the business team to design and deliver a product strategically tailored to enhance lead generation, ensuring alignment with client needs and business objectives.",
+        "In my role as a Web Application Developer at Leadbird, I was instrumental in engineering a sophisticated, React-based web dashboard tailored for top executives to monitor and analyze LinkedIn lead generation activities. My responsibilities included integrating DuxSoup for automating LinkedIn requests, significantly enhancing the efficiency of lead management for a diverse clientele. The user-friendly interface I developed provided immediate access to key metrics such as connection rates and message success, along with detailed insights into each LinkedIn interaction. This intuitive dashboard greatly improved our clients' decision-making capabilities in their networking strategies. My work at Leadbird was distinguished by my ability to deliver a high-performance tool that streamlined complex lead generation processes, demonstrating my expertise in creating data-driven web application solutions.",
     },
     
   ],
