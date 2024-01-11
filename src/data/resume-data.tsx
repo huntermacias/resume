@@ -70,10 +70,7 @@ export const RESUME_DATA = {
       end: "Present",
       description:
         [
-          'Spearheaded the development and implementation of an innovative Python programming curriculum, successfully integrating comprehensive theoretical concepts with practical applications tailored for diverse learning needs.',
-          'Developed and implemented a Python programming curriculum for 100+ students, successfully integrating comprehensive theoretical concepts with practical applications tailored for diverse learning needs.',
-          'Collaborated with educational specialists to continually evolve teaching methodologies, integrating industry-relevant content and cutting-edge pedagogical techniques.',
-          'Conducted extensive courses in Web Design and Unity, showcasing a versatile skill set in multiple programming domains and a deep understanding of varied technologies and frameworks.'
+          "In my role as a Coding Instructor, I am responsible for delivering personalized, one-on-one coding instruction to a diverse group of students. My teaching encompasses a wide array of programming languages and technologies, including Python, HTML, CSS, JavaScript, and React, ensuring that I am well-versed in the skills most relevant to today's tech landscape. I take pride in developing flexible and dynamic lesson plans, which I craft myself without a formal curriculum. This approach allows me to tailor each session to the individual student's skill level, learning style, and interests, fostering engagement and relevance. My focus extends beyond mere language proficiency; I emphasize the development of critical thinking and problem-solving skills that are essential in the tech industry. As a mentor, I guide my students through their coding journey, inspiring a passion for technology and a commitment to continuous learning and improvement."
         ],
     },
     {
