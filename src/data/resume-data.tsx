@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Seattle, Washington",
   locationLink: "https://www.google.com/maps/place/Seattle,+WA8",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Innovative Software Developer | Tech Educator | Creator of Impactful Digital Solutions",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 5 years of experience in developing full-stack applications",
+    "I am a pragmatic software developer with a foundational background in computer science, marked by an energetic pursuit of innovative project work. My academic knowledge, while not fully complete, has been the springboard for a diverse portfolio of hands-on tech creations. I've spearheaded cutting-edge projects ranging from a real-time collaborative platform reminiscent of Notion, to advanced solutions in blockchain crowdfunding and AI-driven communication platforms. These endeavors highlight a fluency in contemporary tools such as React, Next.js, and Python, showcasing my ability to not only adapt to but also anticipate the shifting tides of the tech landscape. Engaging with my work reveals a developer dedicated to building not just functional, but captivating, user-centric applications that drive forward the intersection of technology and practicality.",
   avatarUrl: "https://avatars.githubusercontent.com/u/47125492?v=4",
   personalWebsiteUrl: "https://huntercodes.netlify.app",
   contact: {
