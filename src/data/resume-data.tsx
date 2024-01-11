@@ -77,7 +77,7 @@ export const RESUME_DATA = {
       company: "MissionBit",
       link: "https://missionbit.org/",
       badges: ["Remote", "Part-time"],
-      title: "Senior Full Stack Developer",
+      title: "Coding Instructor + Curriculum Developer",
       logo: ParabolLogo,
       start: "2020",
       end: "2022",
