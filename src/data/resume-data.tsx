@@ -130,8 +130,8 @@ export const RESUME_DATA = {
         "Developed a Notion inspired web application using Next.js, Supabase, and Stripe. The platform offers features such as user authentication, subscription payments, and real-time collaboration, fostering an engaging and interactive community experience.",
       logo: MonitoLogo,
       link: {
-        label: "shareme.dev",
-        href: "https://symphonious-kitten-397f94.netlify.app/",
+        label: "https://notionary.vercel.app/",
+        href: "https://notionary.vercel.app/",
       },
     },
     {
